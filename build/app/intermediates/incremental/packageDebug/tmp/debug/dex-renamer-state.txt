@@ -1,0 +1,4 @@
+#Fri Feb 15 18:04:27 ECT 2019
+base.0=/Users/santiagot/Projects/Gospace/FlutterTest/flutter_polygon_drag_drop/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
